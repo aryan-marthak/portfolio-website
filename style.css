@@ -26,7 +26,7 @@ body{
 /* links */
 .link {
     text-decoration: none;
-    padding: 0.5rem 1rem;
+    padding: 0.5rem 2rem;
 }
 
 .primary-link{
@@ -146,7 +146,15 @@ body{
     padding-inline-start: 0px;
 }
 
+/* projects styling */
 
+
+.markTag{
+    background-color: rgb(31, 214, 31);
+    padding: 0rem 0.2rem;
+    border-radius: 0.3rem;
+
+}
 
 
 
